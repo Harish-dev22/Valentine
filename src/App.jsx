@@ -42,20 +42,20 @@ import nogif8 from "./assets/GifData/No/breakRej7.gif";
 import initialMusic from "./assets/AudioTracks/Tamil/Yes/Enna_solla.mp3";
 
 //! yes - Music Importing
-import yesmusic1 from "./assets/AudioTracks/Love_LoveMeLikeYouDo.mp3";
-import yesmusic2 from "./assets/AudioTracks/Love_EDPerfect.mp3";
-import yesmusic3 from "./assets/AudioTracks/Love_Nadaaniyan.mp3";
-import yesmusic4 from "./assets/AudioTracks/Love_JoTumMereHo.mp3";
+// import yesmusic1 from "./assets/AudioTracks/Love_LoveMeLikeYouDo.mp3";
+// import yesmusic2 from "./assets/AudioTracks/Love_EDPerfect.mp3";
+// import yesmusic3 from "./assets/AudioTracks/Love_Nadaaniyan.mp3";
+// import yesmusic4 from "./assets/AudioTracks/Love_JoTumMereHo.mp3";
 import yesmusic5 from "./assets/AudioTracks/Tamil/Yes/PookalBgam.mp3";
 import yesmusic6 from "./assets/AudioTracks/Tamil/Yes/Maruvarthai.mp3";
 import popupOkMusic from "./assets/AudioTracks/Tamil/Yes/ithu_pothum.mp3";
 
 //! no - Music Importing
-import nomusic1 from "./assets/AudioTracks/Rejection_WeDontTalkAnyMore.mp3";
-import nomusic2 from "./assets/AudioTracks/Rejection_LoseYouToLoveMe.mp3";
-import nomusic3 from "./assets/AudioTracks/Reject_withoutMe.mp3";
-import nomusic4 from "./assets/AudioTracks/Neutral_Base_IHateU.mp3";
-import nomusic5 from "./assets/AudioTracks/Reject1_TooGood.mp3";
+// import nomusic1 from "./assets/AudioTracks/Rejection_WeDontTalkAnyMore.mp3";
+// import nomusic2 from "./assets/AudioTracks/Rejection_LoseYouToLoveMe.mp3";
+// import nomusic3 from "./assets/AudioTracks/Reject_withoutMe.mp3";
+// import nomusic4 from "./assets/AudioTracks/Neutral_Base_IHateU.mp3";
+// import nomusic5 from "./assets/AudioTracks/Reject1_TooGood.mp3";
 import nomusic6 from "./assets/AudioTracks/Tamil/Ennai_Kollathey.mp3";
 import nomusic7 from "./assets/AudioTracks/Tamil/YendiEnna.mp3";
 import nomusic8 from "./assets/AudioTracks/Tamil/YeanEnnai.mp3";
