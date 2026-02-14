@@ -56,11 +56,11 @@ import popupOkMusic from "./assets/AudioTracks/Tamil/Yes/ithu_pothum.mp3";
 // import nomusic3 from "./assets/AudioTracks/Reject_withoutMe.mp3";
 // import nomusic4 from "./assets/AudioTracks/Neutral_Base_IHateU.mp3";
 // import nomusic5 from "./assets/AudioTracks/Reject1_TooGood.mp3";
-import nomusic6 from "./assets/AudioTracks/Tamil/Ennai_Kollathey.mp3";
+import nomusic6 from "./assets/AudioTracks/Tamil/Ennai_kollathey.mp3";
 import nomusic7 from "./assets/AudioTracks/Tamil/YendiEnna.mp3";
 import nomusic8 from "./assets/AudioTracks/Tamil/YeanEnnai.mp3";
 import nomusic9 from "./assets/AudioTracks/Tamil/YedhoOndru.mp3";
-import nomusic10 from "./assets/AudioTracks/Tamil/kanave.mp3";
+import nomusic10 from "./assets/AudioTracks/Tamil/Kanave.mp3";
 import nomusic11 from "./assets/AudioTracks/Tamil/PonePo.mp3";
 import nomusic12 from "./assets/AudioTracks/Tamil/Vaadipulla.mp3";
 
